@@ -1,0 +1,13 @@
+
+(a, b, c, d)
+
+a= inline style, 元素內樣式，直接把CSS屬性寫在html tag  (1, 0, 0, 0)
+b= id屬性 (0, 1, 0, 0)
+c= class屬性，擬類別(pseudo classes) (0, 0, 1, 0)
+d= 元素， 擬元素(pseudo elements) (0, 0, 0, 1)
+
+從a開始比，比贏就採用，平手再比下一層
+
+
+擬元素: 原始碼裡的虛擬元素ex:  :first-letter, :first-line
+擬類別: class屬性的額外值ex:  :hover, :link, :visited
