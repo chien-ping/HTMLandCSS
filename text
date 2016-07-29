@@ -1,1 +1,73 @@
 
+<html>
+ <head>
+  <meta charset="utf-8" />
+  <title>text</title>
+ </head>
+ <body>
+  <h2>headings</h2>
+  <h3>標題，共六階</h3>
+  
+  <h2><paragraphs/h2>
+  <h3>段落，結束自動空一行</h3>
+  
+  <h2>headings</h2>
+  <h3>標題，共六階</h3>
+  
+  <h2>bold</h2>
+  <h3>粗體</h3>
+  
+  <h2>italic</h2>
+  <h3>斜體</h3>
+  
+  <h2>superscript</h2>
+  <h3>上標</h3>
+  
+  <h2>subscript</h2>
+  <h3>下標</h3>
+  
+  <h2>white space</h2>
+  <h3>空白壓縮</h3>
+  
+  <h2>line breaks</h2>
+  <h3>斷行</h3>
+  
+  <h2>horizontal rules</h2>
+  <h3>水平線</h3>
+  
+  <h2>strong</h2>
+  <h3>強調，內容有強烈重要性</h3>
+  
+  <h2>emphasis</h2>
+  <h3>文意轉折強調</h3>
+  
+    <h2>block quote</h2>
+  <h3>引述，長段落引用，可用屬性cite標明引述來源</h3>
+  
+    <h2>quote</h2>
+  <h3>引述，短內容引用，可用屬性cite標明引述來源</h3>
+  
+     <h2>abbreviations</h2>
+  <h3>縮寫</h3>
+  
+     <h2>citations</h2>
+  <h3>註解，標明來源。ex: 書名、論文。HTML5後不可用於人名</h3>
+  
+     <h2><definitions/h2>
+  <h3>定義，新術語的定義實例。首次被釋義時</h3>
+  
+     <h2>address</h2>
+  <h3>標明網頁作者的聯絡細節</h3>
+  
+     <h2>insert</h2>
+  <h3>插入，顯示被插入文件的內容</h3>
+  
+     <h2>delete</h2>
+  <h3>刪除，顯示被刪除文件的內容</h3>
+  
+     <h2>strikethrough</h2>
+  <h3>標示不再正確卻不應該被刪除的內容</h3>
+  
+  
+ </body>
+</html>
