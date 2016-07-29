@@ -1,0 +1,27 @@
+<html>
+  <head>
+   <title>list</title>
+  </head>
+  <body>
+   <h1>chapter3</h1>
+   <dl>
+    <dt>ordered list</dt>
+    <dd>編號清單，項目依序編號</dd>
+    <dd>
+      <ol>
+       <li>dog</li>
+       <li>cat</li>
+      </ol>
+    </dd>
+    <dt>unordered list</dt>
+    <dd>項目清單，項目前方為符號，非編號</dd>
+    <dd>
+      <ul>
+       <li></li>
+      </ul>
+    </dd>
+    <dt>definition list</dt>
+    <dd>定義清單，由一組名詞和定義所構成</dd>
+   </dl>
+  </body>
+</html>
