@@ -17,7 +17,8 @@
     <dd>項目清單，項目前方為符號，非編號</dd>
     <dd>
       <ul>
-       <li></li>
+       <li>dog</li>
+       <li>cat</li>
       </ul>
     </dd>
     <dt>definition list</dt>
